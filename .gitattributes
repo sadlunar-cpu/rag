@@ -1,0 +1,2 @@
+# 두 PC가 각각 덧붙인 색인 줄을 겹치지 않게 합친다
+_index.md merge=union

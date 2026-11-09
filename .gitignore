@@ -1,0 +1,9 @@
+# 퇴근GO 자료 보관함 공유: md만 올리고 원본·임베딩 등은 PC마다 둔다
+*
+!*/
+!*.md
+!.gitignore
+!.gitattributes
+원본/
+.obsidian/
+_개인정보/
